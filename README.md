@@ -1,2 +1,2 @@
 # French-Portuguese-Neural-Machine-Translation-Based-on-Transformers
-In this project we trained a French-Portuguese neural machine translation model. We used the French-Portuguese TED Talks dataset and a transformer architecture. After 20 training epochs validation loss and accuracy were 1.46 and 0.68, respectively.
+In this project we trained a French-Portuguese neural machine translation model. We used the French-Portuguese TED Talks dataset and a Transformer architecture. After 20 training epochs loss and accuracy were 1.84 and 0.599, respectively. We showed that using a relatively small dataset and rather rapidly we may build a neural machine translator of moderate quality.
